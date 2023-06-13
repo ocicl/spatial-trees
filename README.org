@@ -1,0 +1,10 @@
+* spatial-trees
+
+spatial-trees is a set of dynamic index data structures for spatially-extended data.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/rpav/spatial-trees.git   |
+| commit  | 81fdad0  |
+| systems | spatial-trees |
+|---------+-------------------------------------------|
+
